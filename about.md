@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
+redirect_from:
+  - /about
 ---
-
-Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C#, C++, Qt, Scrum and Linux 

@@ -4,15 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Mail
+Questions or suggestions? Just send me an email: [email@damirporobic.me](mailto:email@damirporobic.me)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## Donate
+If you want to tip me for the FOSS work I do, any donation is appreciated via [PayPal](https://www.paypal.me/damirporobic)
