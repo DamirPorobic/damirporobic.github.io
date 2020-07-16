@@ -24,10 +24,12 @@ github_username:  damirporobic
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
