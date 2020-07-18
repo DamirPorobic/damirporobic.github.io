@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 Hi, my name is Damir Porobić and I'm a Software Engineer working for [MaibornWolff GmbH](https://www.maibornwolff.de/). I'm the developer and Maintainer of [ksnip](https://github.com/ksnip/ksnip).

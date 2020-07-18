@@ -1,0 +1,20 @@
+---
+layout: post
+title: Blog
+permalink: /blog/
+---
+
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.excerpt }}</p>
+      <p>site.baseurl: {{ site.baseurl }}</p>
+      <p>post.url: {{ post.url }}</p>
+    </li>
+  {% endfor %}
+</ul>
