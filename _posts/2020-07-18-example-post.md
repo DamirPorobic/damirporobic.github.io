@@ -1,7 +1,7 @@
---
+---
 layout: post
-title:  "An Example!"
-date:   2020-07-18 11:23:00 +0100
+title: "An Example!"
+author: jill
 categories: jekyll tutorial
 ---
 
@@ -14,6 +14,12 @@ To add new posts, simply add a file in the _posts directory that follows the con
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %} def print_hi(name) puts "Hi, #{name}" end print_hi('Tom') #=> prints 'Hi, Tom' to STDOUT. {% endhighlight %}
+{% highlight ruby %} 
+    def print_hi(name) 
+        puts "Hi, #{name}" 
+    end 
+    print_hi('Tom') 
+    #=> prints 'Hi, Tom' to STDOUT. 
+{% endhighlight %}
 
 Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.

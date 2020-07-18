@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 show_downloads: false

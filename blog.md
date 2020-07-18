@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Blog
 permalink: /blog/
 ---
@@ -9,12 +9,8 @@ permalink: /blog/
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h2>
-      <p>{{ post.excerpt }}</p>
-      <p>site.baseurl: {{ site.baseurl }}</p>
-      <p>post.url: {{ post.url }}</p>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
