@@ -2,7 +2,7 @@
 layout: post
 title: "An Example!"
 author: jill
-categories: jekyll tutorial
+categories: jekyll_tutorial
 ---
 
 ## How to write a post
