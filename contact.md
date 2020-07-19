@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-## Mail
+## E-Mail
 Questions or suggestions? Just send me an email: [email@damirporobic.me](mailto:email@damirporobic.me)
 
 ## GitHub
