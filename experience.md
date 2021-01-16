@@ -8,11 +8,22 @@ permalink: /experience/
 
 <section id="experience_content">
     <div class="experience">
+        <h1>Senior Consultent</h1>
+        <h2>IT Frankfurt GmbH, Frankfurt am Main, Germany</h2>
+        <h3>December 2020 - now</h3>
+        <ul>
+            <li>Development of a desktop application for the financial industry in C# (WPF, WCF, .NET, MSSQL).</li>
+        </ul>
+    </div>
+</section>
+
+<section id="experience_content">
+    <div class="experience">
         <h1>Senior Software Engineer</h1>
         <h2>MaibornWolff GmbH, Frankfurt am Main, Germany</h2>
-        <h3>June 2018 - now</h3>
+        <h3>June 2018 - November 2020</h3>
         <ul>
-            <li>Development of a desktop application in C# (WPF, .NET, DevExpress, DB2).</li>
+            <li>Development of a desktop application for the automotive industry in C# (WPF, .NET, DevExpress, DB2/PostgreSQL).</li>
             <li>Maintenance and further development of the build pipeline.</li>
             <li>Migration of the build pipeline from GitLab to GitHub and Azure DevOps.</li>
             <li>Collaboration on the database migration from IBM DB2 to PostgreSQL.</li>
